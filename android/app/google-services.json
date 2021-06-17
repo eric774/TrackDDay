@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142128491779",
+    "project_id": "minortest-c4a9f",
+    "storage_bucket": "minortest-c4a9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142128491779:android:0165bda4748dc3b9128d36",
+        "android_client_info": {
+          "package_name": "com.nishant.minor_project_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142128491779-ktqmh9qtgdqse0cgj87mj9ua50hah61a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt8QVNJf42mylw-JLlM0N3cxKAlQgQAjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142128491779-ktqmh9qtgdqse0cgj87mj9ua50hah61a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
